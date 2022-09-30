@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: trip_data
+    schema: trip_data
+    tables:
+      - name: greentrip-agt21
+        identifier: greentrip-agt21
+
+      - name: greentrip_sept21
+        identifier: greentrip_sept21
+
+      - name: greentrip-okt21
+        identifier: greentrip-okt21
